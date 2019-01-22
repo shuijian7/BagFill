@@ -1,0 +1,47 @@
+body {
+    background-color: powderblue;
+}
+h1 {
+    color: blue;
+}
+p {
+    margin: 20px;
+}
+.error {
+    color: #FF0000;
+}
+.item-a{   
+
+    grid-column: 1;   
+  
+    grid-row: 1 / 3;  
+
+    background:yellow; 
+}  
+  
+.item-g{   
+  
+    grid-column: 5;   
+  
+    grid-row: 1 / 3;
+
+    background:yellow;
+  
+} 
+  
+.container{   
+
+    display: grid;   
+  
+    grid-template-columns: 1fr 2fr 2fr 2fr 1fr;   
+  
+    grid-template-rows: 1fr 1fr;   
+  
+    grid-auto-flow: row;  
+  
+    grid-gap: 20px 20px;;
+  }
+
+textarea{
+    vertical-align: top;
+  }

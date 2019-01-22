@@ -1,0 +1,15 @@
+<html>
+<head>
+       <title>Welcome to BagFill</title>
+</head>
+
+<body bgcolor = "Pink">
+		
+<center><h1><font face = "Comic Sans MS">BagFill</font></h1></center>
+<center><font size = "+1"><a href = "../Home/Home.html">Home</a> ||<a href = "../Home/Summary.html">Summary</a> || <a href = "../Home/Logical_design.html">Logical design</a> || <a href = "../list/classification.php">List of Application</a> || <a href = "../Home/UserGuide.html">User's guide</a> || <a href = "../Home/contents.php">Contents of tables</a> || <a href = "../Home/code.html">Implementation code</a> || <a href = "../Home/conclusion">Conclusion</a></font></center>
+<hr>
+<center><font size = "+2" face = "Comic Sans MS">welcome to BagFill, please check User's guide to see All informations.</font></center>
+<center><font size = "+2" face = "Comic Sans MS">If you want to change your advertsiement, please log in.</font></center>
+
+</body>
+</html>

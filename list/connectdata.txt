@@ -1,0 +1,9 @@
+<?php
+
+$server = "ix.cs.uoregon.edu";
+$dbname ="BagFill";
+$user = "shuijianz";
+$pass = "oP78l400";
+$port="3436";
+
+?>

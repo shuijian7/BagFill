@@ -1,0 +1,27 @@
+<html>
+<head>
+	<title> User's guide</title>
+</head>
+
+<body bgcolor = "Pink">
+
+<center><h1><font face = "Comic Sans MS">User Guide</font></h1></center>
+<center><font size = "+1"><a href = "../Home/Home.html">Home</a> ||<a href = "../Home/Summary.html">Summary</a> || <a href = "../Home/Logical_design.html">Logical design</a> || <a href = "../list/classification.php">List of Application</a> || <a href = "../Home/UserGuide.html">User's guide</a> || <a href = "../Home/contents.php">Contents of tables</a> || <a href = "../Home/code.html">Implementation code</a> || <a href = "../Home/conclusion">Conclusion</a></font></center>
+<hr>
+<font size = "+2" face = "Comic Sans MS">It has several ways you can do in this PJ:
+<ul>
+	<li>1.Check the Home page with all of the informations for the project requirements such as(Logical design, table contents.....)</li>
+	<li>2.The application is happened if you click linking List of Application</li>
+	<li>3.In advertisement home page, it has three ways you can do:</li>
+	<ul>
+		<li>switch the city to see different advertisement</li>
+		<li>choose a classification you like to see more advertisement details</li>
+		<li>go back to home page</li>
+		
+	</ul>
+	<li>4.After you see advertisement details in one classification branch, you're able to delete one you dislike or insert one for free.</li>
+	<li>Note:Since the dataset is huge, If you want to check the data I set, please followed by <a href = "../Home/contents.php">contents of tables</a> which is a dynamic table shows. I just add around by 10 datas in each table(followed by the requirement), sorry for the inconvenience. The only way to back to Application home page is using linking List of Application, there's no other ways to back to home page.</li>
+</ul>
+</font>
+</body>
+</html>
